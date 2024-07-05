@@ -35,7 +35,7 @@ as minhas habilidades como desenvoldedor e compartilho aqui, no Github.
 | Português     |     Língua Nativa        |
 
 
-## O que estou aprendendo atualmennte 📚
+## O que estou aprendendo atualmente 📚
 
 - React JS
 - RabbitMQ
